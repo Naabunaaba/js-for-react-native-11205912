@@ -1,4 +1,4 @@
-# js-for-react-native-11225319
+# js-for-react-native-11205912
 
 
 Three tasks comprise this work group.The inputs for these three tasks differ. The files arrayManipulation.js and task one and two are located there, while task three is located in the userInfo.js file. An illustration of the three distinct jobs may be found below;
