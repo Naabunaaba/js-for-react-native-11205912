@@ -25,5 +25,5 @@ With this tasks, it takes an array of names and the array of modified names from
 # Installation
 
 Cloning the repository:
-use this link: https://github.com/mrrjew/-js-for-react-native-11225319.git
+use this link: https://github.com/Naabunaaba/js-for-react-native-11205912.git
 After using the link, you can navigate to the projects directory to see the outcome.

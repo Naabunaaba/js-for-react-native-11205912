@@ -1,4 +1,3 @@
-// Task 3: createUserProfiles function
 function createUserProfiles(names, modifiedNames) {
     return names.map((name, index) => ({
       originalName: name,
@@ -9,6 +8,5 @@ function createUserProfiles(names, modifiedNames) {
 
 
   
-  // Example for  Task 3 above
   const userProfiles = createUserProfiles(names, modifiedNames);
   console.log('User profiles:', userProfiles);
